@@ -1,0 +1,20 @@
+Toma rol de programador Full Stack y diseñador grafico 
+de interfaces graficas profesionales tipo apple black.
+
+Objetivo: añadir estilos standart profesionales a web con 
+acabado luz neon leve y estilo apple moderno.
+
+Acciones:
+
+1. Mejorar visualmente espacios y tamaño de elementos para
+ mejor visibilidad de usuarios.
+2. Usar tonalidad naranja Elegante animado y fondo blanco, 
+letras negras bien profundizadas con contraste visible.
+3. Al pasar el mouse por encima animar elegantemente elementos.
+4. Crear logo Arriba tipo GIT HUB moderno animacion leve constante.
+5. La web debe ser totalmente Responsive con todo tipo de 
+dispositivos.
+
+
+
+Dame el nuevo CSS completo, de ser necesario modifica ligeramente el HTML solamente de ser necesario.
